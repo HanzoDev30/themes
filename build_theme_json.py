@@ -8,8 +8,8 @@ import json
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 THEME_JSON = os.path.join(BASE_DIR, "theme.json")
 
-REPO_OWNER = "HanzoDev1375"
-REPO_NAME = "ghostidetheme"
+REPO_OWNER = "HanzoDev30"
+REPO_NAME = "themes"
 REPO_BRANCH = "main"
 
 ICON_NAME = "icon.png"
