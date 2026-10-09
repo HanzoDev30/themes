@@ -523,4 +523,11 @@ Save the following as `mytheme.gth` and edit the values. This is the exact struc
 - **Missing keys are filled automatically** from the built-in default theme, so you never need to write every key — but writing them lets you control everything.
 - You can **edit the `.gth` file as plain text** to set keys that the visual editor doesn't show yet (e.g. `wholeBackground`).
 
+## 13. The most important rule about the image theme
+
+- If your theme has an image, you should make the color of the status bar and background and other items containing the background transparent.
+- If you don't do this, the theme will look bad and may not go well 
+- Some photos are bright, for that it is better to set the background according to the photo noise, that is, a transparent black background between 10 and 60% will not show a good appearance.
+
+
 Now go make your own theme. If you got this far, you know everything there is to know. 🎨
